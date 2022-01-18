@@ -1,6 +1,6 @@
 
-- 🌱 I’m currently learning Java, React and ReactNative
-- 👯 I’m looking to collaborate on WebProjects 
+- 🌱 I’m currently learning Android [Java, Kotlin]
+- 👯 I’m looking to collaborate on Android Projects 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giacomellivinicius&show_icons=true&theme=chartreuse-dark)](https://github.com/Giacomellivinicius)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomellivinicius&layout=compact&theme=chartreuse-dark)](https://github.com/Giacomellivinicius/github-readme-stats)
