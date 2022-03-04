@@ -34,9 +34,9 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomellivinicius&layout=compact&theme=chartreuse-dark)
 
-__Meus projetos principais estão marcados aqui em baixo, vai lá dar uma olhada.__
-
-Obrigado por visitar o meu perfil
+# Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
 
 ![0_bA5DhavBF3I85uWT](https://user-images.githubusercontent.com/41841454/156797210-310c27d3-6bf1-4a37-bcda-caef98d19c91.gif)
+
+Obrigado por visitar o meu perfil :wave:
 
