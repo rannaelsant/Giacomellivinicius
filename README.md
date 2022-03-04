@@ -1,8 +1,6 @@
-# Bem vindo(a)! Eu sou o Vinicius Giacomelli :smile: :calling: :space_invader: :doughnut:
+# Olá! Eu sou o Vinicius Giacomelli :smile: :space_invader: :doughnut:
 
-**Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android mas também estou procurando aprender desenvolvimento Swift. No meu tempo livre gosto de jogar videogame, ouvir música, faço musculação e amo brincar com meus cachorros. **
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)
+__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android mas também estou procurando aprender desenvolvimento Swift. No meu tempo livre gosto de jogar videogame, ouvir música, faço musculação e amo brincar com meus cachorros.__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
@@ -18,8 +16,8 @@
 <a href="#"><img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> </a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-
 ## :books: Tecnologias que uso e estou me desenvolvendo ##
+
 <a href="#"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> </a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> </a>
 <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> </a>
@@ -30,13 +28,15 @@
 <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> </a>
 <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> </a>
 
-<a href="#"><img src="" /> </a>
-
-
-
-
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomellivinicius&layout=compact&theme=chartreuse-dark)](https://github.com/Giacomellivinicius/github-readme-stats)
+## :white_check_mark: Minhas estatísticas 
 
 *Nota: As linguagens com maior uso atual, não refletem necessariamente meu nível de conhecimento sobre elas*
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomellivinicius&layout=compact&theme=chartreuse-dark)
 
+__Meus projetos principais estão marcados aqui em baixo, vai lá dar uma olhada.__
+
+Obrigado por visitar o meu perfil
+
+![0_bA5DhavBF3I85uWT](https://user-images.githubusercontent.com/41841454/156797210-310c27d3-6bf1-4a37-bcda-caef98d19c91.gif)
 
