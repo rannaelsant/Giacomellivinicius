@@ -1,6 +1,6 @@
 # Olá! Eu sou o Vinicius Giacomelli :smile: :space_invader: :doughnut:
 
-__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android mas também estou procurando aprender desenvolvimento Swift. No meu tempo livre gosto de jogar videogame, ouvir música, faço musculação e amo brincar com meus cachorros.__
+__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android. No meu tempo livre gosto de jogar videogame, ouvir música, faço musculação e amo brincar com meus cachorros.__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
