@@ -1,6 +1,6 @@
 <!-- 
 
-PARABENS!!! Você encontrou o Rick Astley. 
+PARABENS!!! Você encontrou Rick Astley. 
 A partir de agora ele:
 nunca vai desistir de você,
 nunca vai te desapontar, 
