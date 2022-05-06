@@ -66,11 +66,9 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile
 
 ![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)
 
-## Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
+## Obrigado por visitar o meu perfil :wave:
 
-Obrigado por visitar o meu perfil :wave:
-
-![Meme agradecendo a visita](https://user-images.githubusercontent.com/41841454/156797210-310c27d3-6bf1-4a37-bcda-caef98d19c91.gif)
-
+### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
+![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)
 
 
