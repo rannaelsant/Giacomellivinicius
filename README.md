@@ -33,7 +33,7 @@ nunca vai mentir e te magoar.
 
 # Olá! Eu sou o Vinicius Giacomelli :smile: :space_invader: :doughnut:
 
-__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android e Flutter. No meu tempo livre gosto de jogar videogame, ouvir música, faço musculação e brincar com os doguitos.__
+__Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile e web. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho principalmente com Android e Flutter. No meu tempo livre gosto de jogar videogame, ouvir música, fazer musculação e brincar com os doguitos.__
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
