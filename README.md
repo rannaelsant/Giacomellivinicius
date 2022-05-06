@@ -64,9 +64,7 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile
 
 ## :white_check_mark: Minhas estatísticas ##
 
-* :memo: Nota: As linguagens com maior uso atual, não refletem necessariamente meu nível de conhecimento sobre elas 
 ![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giacomellivinicius&theme=solarized_dark)
-![Card mostrando estatísticas sobre as linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Giacomellivinicius&layout=compact&theme=chartreuse-dark)
 
 ## Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
 
