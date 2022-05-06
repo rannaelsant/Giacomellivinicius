@@ -69,4 +69,4 @@ __Eu sou um desenvolvedor brasileiro freelancer voltado para aplicações mobile
 ## Obrigado por visitar o meu perfil :wave:
 
 ### Meus projetos principais estão aqui em baixo, vai lá dar uma olhada.
-[![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](_)
+[![kratos agradecendo a visita](https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif)](#)
